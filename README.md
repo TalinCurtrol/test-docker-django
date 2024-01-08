@@ -11,8 +11,9 @@
 <li>Customised image based on postgres and python3</li>
 <h2>Djangle</h2>
 <li>version: 5.0.1</li>
-<li>“pluggable” apps:</li>
-<ul>
- <li>polls: a vote application</li>
- <li>litetests: a tests creation tool</li>
-</ul>
+<li>“pluggable” apps:
+    <ul>
+        <li>polls: a vote application</li>
+        <li>litetests: a tests creation tool</li>
+    </ul>
+</li>
