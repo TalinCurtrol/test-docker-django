@@ -13,7 +13,7 @@
 <li>version: 5.0.1</li>
 <li>“pluggable” apps:
     <ul>
-        <li>polls: a vote application</li>
+        <li>polls: a vote application(for learning Djangle)</li>
         <li>litetests: a tests creation tool</li>
     </ul>
 </li>
